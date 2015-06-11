@@ -1,0 +1,39 @@
+body {
+  width: 700px;
+
+}
+
+header {
+  padding-top: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 10px;
+
+
+}
+#intro {
+  background-color: #FFCCCC;
+}
+section {
+  background-color: #66CCFF;
+  color: silver;
+  text-align: center;
+  box-shadow: 30px 30px 50px
+
+}
+#paragraph-one {
+  background-color: silver;
+  color: pink;
+  font: 2em "Open Sans", sans-serif;
+}
+
+h1 {
+  text-align: right;
+  background-color: #CC33FF
+}
+#header-one {
+  font: 4.2em
+}
+#image-one {
+  border-image-width: 10px
+}
