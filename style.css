@@ -37,3 +37,18 @@ h1 {
 #image-one {
   border-image-width: 10px
 }
+.favourite-colour {
+  color: orange;
+  background-color: #FF9999
+}
+
+.bucket-list {
+  font-family: "Gill Sans Extrabold", sans-serif;
+  text-indent: right;
+}
+
+.pet {
+  color: red;
+}
+
+
